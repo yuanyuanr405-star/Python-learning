@@ -1,4 +1,4 @@
 print("python")
 print("\tpython")
-print("Languages:\nPython\nC\nJavaScript")
-print("Languages:\n\tPython\n\tC\n\tJavaScript")
+print("Languages:\nPython\nC\nJavascript")
+print("Languges:\n\tPython\n\tC\n\tJavascript")
